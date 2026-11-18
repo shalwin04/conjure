@@ -8,8 +8,8 @@ Built with Meta's **Immersive Web SDK (IWSDK)** for the **Meta VR Start Develope
 
 | | |
 | --- | --- |
-| Live | `<your Vercel link>` (open in the Meta Quest browser, then Enter XR) |
-| Demo video | `<your YouTube link>` |
+| Live | `https://conjure-chi.vercel.app` (open in the Meta Quest browser, then Enter XR) |
+| Demo video | `https://youtu.be/eO9zcWevg9c` |
 | Stack | WebXR · IWSDK · three.js · TypeScript · LangGraph.js · Meta Muse Spark · Gemini |
 
 ![Start screen](docs/images/start-screen.jpg)
